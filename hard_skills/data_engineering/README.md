@@ -9,28 +9,21 @@ Data Engineer — специалист, который проектирует, �
 - Проектирование и разработка ETL/ELT-пайплайнов
 - Построение и поддержка data platform (Lakehouse, DWH)
 - Обеспечение качества, надёжности и производительности данных
-- Управление инфраструктурой для обработки данных
+- Разработка платформенных инструментов и автоматизаций
 
 ## Что важно для этой роли
 
-**Software Engineering** — написание чистого, тестируемого и поддерживаемого кода. Владение современными практиками разработки: CI/CD, код-ревью, версионирование.
+**Platform Engineering & Python** — разработка платформенных инструментов, внутренних библиотек и CLI-утилит. Владение CI/CD, код-ревью, тестированием.
 
-**ETL и распределённые системы** — проектирование надёжных пайплайнов с использованием Spark, Airflow. Понимание принципов работы с большими объёмами данных.
+**ETL и интеграция данных** — проектирование надёжных пайплайнов с использованием Spark, Airflow, Debezium CDC. Интеграция с разнообразными источниками данных.
 
-**SQL и аналитические базы данных** — глубокое знание SQL, оптимизация запросов, администрирование ClickHouse и Trino.
+**SQL и аналитические движки** — глубокое знание SQL, оптимизация запросов в ClickHouse и Trino.
 
-**Infrastructure & DevOps** — контейнеризация, Kubernetes, мониторинг. Умение обеспечивать надёжность и масштабируемость сервисов.
-
-**Data Modelling** — проектирование схем данных, работа с dbt, построение Lakehouse-архитектуры (bronze/silver/gold).
-
-**Data Management & Governance** — обеспечение качества данных, ведение каталога, соблюдение политик безопасности и compliance.
+**Data Modelling, Quality & Contracts** — проектирование схем данных, работа с dbt, построение Lakehouse-архитектуры, обеспечение качества данных и управление контрактами.
 
 ## Треки развития
 
-1. [Software Engineering](./1.%20Software%20Engineering.md) — разработка ПО
-2. [ETL](./2.%20ETL.md) — построение пайплайнов
-3. [SQL • ClickHouse • Trino](./3.%20SQL%20•%20ClickHouse%20•%20Trino.md) — работа с базами данных
-4. [Infrastructure & DevOps](./4.%20Infrastructure%20&%20DevOps.md) — инфраструктура
-5. [Data Modelling (dbt • Lakehouse)](./5.%20Data%20Modelling%20(dbt%20•%20Lakehouse).md) — моделирование данных
-6. [Data Management & Governance](./6.%20Data%20Management%20&%20Governance.md) — управление данными
-
+1. [Platform Engineering & Python Development](./1.%20Platform%20Engineering%20&%20Python%20Development.md) — разработка платформы и инструментов
+2. [ETL & Data Integration](./2.%20ETL%20&%20Data%20Integration.md) — построение пайплайнов и интеграция данных
+3. [SQL & Query Engines](./3.%20SQL%20&%20Query%20Engines.md) — работа с ClickHouse и Trino
+4. [Data Modeling, Quality & Contracts](./4.%20Data%20Modeling,%20Quality%20&%20Contracts.md) — моделирование, качество и контракты данных
