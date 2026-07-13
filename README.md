@@ -155,12 +155,10 @@ A: Да, но калибровка с руководителем важна дл
 
 #### Data Engineering
 
-- [Software Engineering](./hard_skills/data_engineering/1.%20Software%20Engineering.md)
-- [ETL](./hard_skills/data_engineering/2.%20ETL.md)
-- [SQL • ClickHouse • Trino](./hard_skills/data_engineering/3.%20SQL%20•%20ClickHouse%20•%20Trino.md)
-- [Infrastructure & DevOps](./hard_skills/data_engineering/4.%20Infrastructure%20&%20DevOps.md)
-- [Data Modelling (dbt • Lakehouse)](./hard_skills/data_engineering/5.%20Data%20Modelling%20(dbt%20•%20Lakehouse).md)
-- [Data Management & Governance](./hard_skills/data_engineering/6.%20Data%20Management%20&%20Governance.md)
+- [Platform Engineering & Python Development](./hard_skills/data_engineering/1.%20Platform%20Engineering%20&%20Python%20Development.md)
+- [ETL & Data Integration](./hard_skills/data_engineering/2.%20ETL%20&%20Data%20Integration.md)
+- [SQL & Query Engines](./hard_skills/data_engineering/3.%20SQL%20&%20Query%20Engines.md)
+- [Data Modeling, Quality & Contracts](./hard_skills/data_engineering/4.%20Data%20Modeling,%20Quality%20&%20Contracts.md)
 
 #### Machine Learning
 
